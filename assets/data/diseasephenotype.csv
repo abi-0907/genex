@@ -1,0 +1,36 @@
+disease_id,disease_name,hpo_id,hpo_name
+ORPHA:558,Marfan syndrome,HP:0001166,Arachnodactyly
+ORPHA:558,Marfan syndrome,HP:0000268,Dolichocephaly
+ORPHA:558,Marfan syndrome,HP:0001519,Disproportionate tall stature
+ORPHA:558,Marfan syndrome,HP:0002616,Aortic root aneurysm
+ORPHA:558,Marfan syndrome,HP:0000545,Myopia
+ORPHA:778,Angelman syndrome,HP:0001250,Seizure
+ORPHA:778,Angelman syndrome,HP:0001263,Global developmental delay
+ORPHA:778,Angelman syndrome,HP:0001252,Hypotonia
+ORPHA:778,Angelman syndrome,HP:0000252,Microcephaly
+ORPHA:778,Angelman syndrome,HP:0001251,Ataxia
+ORPHA:199,Rett syndrome,HP:0001250,Seizure
+ORPHA:199,Rett syndrome,HP:0001263,Global developmental delay
+ORPHA:199,Rett syndrome,HP:0000252,Microcephaly
+ORPHA:199,Rett syndrome,HP:0001251,Ataxia
+ORPHA:199,Rett syndrome,HP:0002187,Intellectual disability
+ORPHA:881,Dravet syndrome,HP:0001250,Seizure
+ORPHA:881,Dravet syndrome,HP:0002069,Generalized tonic-clonic seizures
+ORPHA:881,Dravet syndrome,HP:0001263,Global developmental delay
+ORPHA:881,Dravet syndrome,HP:0001251,Ataxia
+ORPHA:881,Dravet syndrome,HP:0001249,Intellectual disability
+ORPHA:739,Prader-Willi syndrome,HP:0001252,Hypotonia
+ORPHA:739,Prader-Willi syndrome,HP:0001263,Global developmental delay
+ORPHA:739,Prader-Willi syndrome,HP:0004322,Short stature
+ORPHA:739,Prader-Willi syndrome,HP:0001249,Intellectual disability
+ORPHA:739,Prader-Willi syndrome,HP:0000819,Diabetes mellitus
+ORPHA:352,Duchenne muscular dystrophy,HP:0001324,Muscle weakness
+ORPHA:352,Duchenne muscular dystrophy,HP:0001263,Global developmental delay
+ORPHA:352,Duchenne muscular dystrophy,HP:0001252,Hypotonia
+ORPHA:352,Duchenne muscular dystrophy,HP:0003560,Muscular dystrophy
+ORPHA:352,Duchenne muscular dystrophy,HP:0002355,Difficulty walking
+ORPHA:908,Fragile X syndrome,HP:0001249,Intellectual disability
+ORPHA:908,Fragile X syndrome,HP:0001263,Global developmental delay
+ORPHA:908,Fragile X syndrome,HP:0001250,Seizure
+ORPHA:908,Fragile X syndrome,HP:0000729,Autistic behavior
+ORPHA:908,Fragile X syndrome,HP:0000252,Microcephaly
